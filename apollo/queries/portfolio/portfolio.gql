@@ -1,0 +1,8 @@
+query Portfolios {
+  portfolios {
+    thumb {
+      url
+    }
+    thumb_title
+  }
+}

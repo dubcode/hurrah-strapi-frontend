@@ -1,0 +1,22 @@
+query Home {  
+  home {
+    intro_text
+    banner_text
+    portfolio_title
+    portfolio_excerpt
+    testimonials_title
+    services_title
+    service_a_title
+    service_a_excerpt
+    service_b_title
+    service_b_excerpt
+    service_c_title
+    service_c_text
+    promise_title
+    promise_text
+    banner_title
+    banner_text
+    footer_title
+    footer_text
+  }
+}

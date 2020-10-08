@@ -1,0 +1,12 @@
+query Single {  
+  posts  {
+    id
+    title
+    excerpt
+    date
+    permalink
+    thumb{
+      url
+    }
+  }
+}
